@@ -27,13 +27,9 @@ Answer the following questions based on your understanding of Python programming
 
 *Use Cases :* 
  1. Web Development: Frameworks like Django and Flask make it easy to build web applications.
-
  2. Data Science and Machine Learning: Libraries such as Pandas, NumPy, and TensorFlow are popular for data analysis and machine learning.
-
  3. Automation and Scripting: Python is widely used for writing small scripts to automate tasks.
- 
  4. Software Development: Python is often used as a support language for software developers, for build control and management, testing, and in many other ways.
-
 
 
 2. **Installing Python : Describe the steps to install Python on your operating system (Linux). Include how to verify the installation and set up a virtual environment.**
