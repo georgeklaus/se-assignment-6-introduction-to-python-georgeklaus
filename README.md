@@ -26,7 +26,6 @@ Answer the following questions based on your understanding of Python programming
  -Community Support : Python has a large and active community that contributes to a rich ecosystem of third-party packages and frameworks.
 
 *Use Cases :* 
-
  1. Web Development: Frameworks like Django and Flask make it easy to build web applications.
 
  2. Data Science and Machine Learning: Libraries such as Pandas, NumPy, and TensorFlow are popular for data analysis and machine learning.
