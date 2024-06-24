@@ -51,8 +51,7 @@ sudo apt install python3)
 
  6. Activate the Virtual Environment using : (source myenv/bin/activate)
 
- 7. Deactivate the Virtual Environment using  : (deactivate)
-
+ 7. Deactivate the Virtual Environment using  : (deactivate), (Van Rossum, 2007)
 
 
 
