@@ -60,19 +60,19 @@ C. **Python Syntax and Semantics : Write a simple Python program that prints "He
 
 
 
-4. **Data Types and Variables : List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.**
+D. **Data Types and Variables : List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.**
 
-5. **Control Structures : Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.**
+E. **Control Structures : Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.**
 
-6. **Functions in Python : What are functions in Python, and why are they useful? Write a Python function that takes two arguments and returns their sum. Include an example of how to call this function.**
+F. **Functions in Python : What are functions in Python, and why are they useful? Write a Python function that takes two arguments and returns their sum. Include an example of how to call this function.**
 
-7. **Lists and Dictionaries : Describe the differences between lists and dictionaries in Python. Write a script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both.**
+G. **Lists and Dictionaries : Describe the differences between lists and dictionaries in Python. Write a script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both.**
 
-8. **Exception Handling : What is exception handling in Python? Provide an example of how to use `try`, `except`, and `finally` blocks to handle errors in a Python script.**
+H. **Exception Handling : What is exception handling in Python? Provide an example of how to use `try`, `except`, and `finally` blocks to handle errors in a Python script.**
 
-9. **Modules and Packages : Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.**
+I. **Modules and Packages : Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.**
 
-10. **File I/O : How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.**
+J. **File I/O : How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.**
 
 
 **References**
