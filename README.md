@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of Python programming
 
  Questions:
 
-1. **Python Basics : What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.**
+A. **Python Basics : What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.**
 
  Python is a high-level, interpreted programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming (Van Rossum, 2007)
 
@@ -36,7 +36,7 @@ Answer the following questions based on your understanding of Python programming
  4. Software Development: Python is often used as a support language for software developers, for build control and management, testing, and in many other ways.
 
 
-2. **Installing Python : Describe the steps to install Python on your operating system (Linux). Include how to verify the installation and set up a virtual environment.**
+B. **Installing Python : Describe the steps to install Python on your operating system (Linux). Include how to verify the installation and set up a virtual environment.**
 
  1. Install Python using the following codes : (sudo apt update
 sudo apt install python3)
@@ -56,7 +56,7 @@ sudo apt install python3)
 
 
 
-3. **Python Syntax and Semantics : Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.**
+C. **Python Syntax and Semantics : Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.**
 
 
 
