@@ -26,17 +26,39 @@ Answer the following questions based on your understanding of Python programming
  -Community Support : Python has a large and active community that contributes to a rich ecosystem of third-party packages and frameworks.
 
 *Use Cases :* 
+ 
  1. Web Development: Frameworks like Django and Flask make it easy to build web applications.
+ 
  2. Data Science and Machine Learning: Libraries such as Pandas, NumPy, and TensorFlow are popular for data analysis and machine learning.
+ 
  3. Automation and Scripting: Python is widely used for writing small scripts to automate tasks.
+ 
  4. Software Development: Python is often used as a support language for software developers, for build control and management, testing, and in many other ways.
 
 
 2. **Installing Python : Describe the steps to install Python on your operating system (Linux). Include how to verify the installation and set up a virtual environment.**
 
+ 1. Install Python using the following codes : (sudo apt update
+sudo apt install python3)
+
+ 2. Verify the Installation using this code : (python3 --version)
+
+ 3. Install pip (Python package installer) using the following code : (sudo apt install python3-pip)
+
+ 4. Install *venv* for virtual environments using the following code : (sudo apt install python3-venv)
+
+ 5. Create a Virtual Environment using the following code : (python3 -m venv myenv)
+
+ 6. Activate the Virtual Environment using : (source myenv/bin/activate)
+
+ 7. Deactivate the Virtual Environment using  : (deactivate)
+
+
 
 
 3. **Python Syntax and Semantics : Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.**
+
+
 
 4. **Data Types and Variables : List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.**
 
