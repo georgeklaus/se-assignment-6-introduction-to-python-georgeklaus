@@ -117,7 +117,9 @@ f = (4, 5, 6)
 print(f"Tuple: {f}")
 
 # Dictionary
+
 g = {'key1': 'value1', 'key2': 'value2'}
+
 print(f"Dictionary: {g}")
 
 
