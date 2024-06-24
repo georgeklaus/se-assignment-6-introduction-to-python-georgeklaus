@@ -128,15 +128,21 @@ E. **Control Structures : Explain the use of conditional statements and loops in
 1. Conditional Statements : Conditional statements allow a program to execute certain pieces of code based on whether a condition is true or false.
 
  x = 10
+
 if x > 5:
+
     print("x is greater than 5")
+
 else:
+
     print("x is less than or equal to 5")
 
 2. For Loop : This iterates over a sequence (such as a list, tuple, string, or range) and executes a block of code for each item in the sequence.
 
  numbers = [1, 2, 3, 4, 5]
+
 for number in numbers:
+
     print(number)
 
 
