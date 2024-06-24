@@ -147,9 +147,13 @@ F. **Functions in Python : What are functions in Python, and why are they useful
  A Python function that takes two arguments and returns their sum and an example of how to call this function.
 
   def add(a, b):
+  
     return a + b
+
 *Calling the function*
+  
    result = add(5, 3)
+  
       print(result)  # Output: 8
 
 
