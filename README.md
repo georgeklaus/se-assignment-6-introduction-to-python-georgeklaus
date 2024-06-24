@@ -166,18 +166,25 @@ G. **Lists and Dictionaries : Describe the differences between lists and diction
   A script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both: 
    
    # List
+
 numbers = [1, 2, 3, 4, 5]
+
 print(numbers[2])  # Accessing third element
 
 # Dictionary
+
 person = {'name': 'Alice', 'age': 25}
+
 print(person['name'])  # Accessing value by key
 
 # Adding elements
+
 numbers.append(6)
+
 person['city'] = 'New York'
 
 print(numbers)
+
 print(person)
 
 
@@ -186,11 +193,17 @@ H. **Exception Handling : What is exception handling in Python? Provide an examp
  -Exception handling in Python is a mechanism for responding to runtime errors, allowing a program to continue execution or gracefully terminate. It is accomplished using *try*, *except*, *else*, and *finally* blocks (Juneau et al., 2010)
 
  try:
+
     # Code that may raise an exception
+
     result = 10 / 0
+
 except ZeroDivisionError as e:
+
     print(f"Error: {e}")
+
 finally:
+
     print("This will execute no matter what")
 
 
@@ -206,7 +219,9 @@ I. **Modules and Packages : Explain the concepts of modules and packages in Pyth
  **import** math
 
  **Using math module**
+
 result = math.sqrt(16)
+
 print(result)  # Output: 4.0
 
 
@@ -218,18 +233,30 @@ J. **File I/O : How do you read from and write to files in Python? Write a scrip
 
   **read_file.py**
 
+
 def read_file(file_path):
+
     try:
+
         with open(file_path, 'r') as file:
+
             content = file.read()
+
             print(content)
+
     except FileNotFoundError:
+
         print(f"The file {file_path} does not exist.")
+
     except IOError:
+
         print("An error occurred while reading the file.")
 
+
   **Specify the path to your file**
+
 file_path = 'example.txt'
+
 read_file(file_path)
 
 
@@ -238,22 +265,36 @@ read_file(file_path)
  **write_file.py**
 
 def write_to_file(file_path, lines):
+
     try:
+
         with open(file_path, 'w') as file:
+
             for line in lines:
+
                 file.write(line + '\n')
+
     except IOError:
+
         print("An error occurred while writing to the file.")
 
+
 **List of strings to write to the file**
+
 lines_to_write = [
+
     "First line of text",
+
     "Second line of text",
+
     "Third line of text"
+
 ]
 
 **Specify the path to your file**
+
 file_path = 'output.txt'
+
 write_to_file(file_path, lines_to_write)
 
 
