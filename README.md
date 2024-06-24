@@ -59,7 +59,7 @@ C. **Python Syntax and Semantics : Write a simple Python program that prints "He
 
  A simple Python program that prints "Hello, World!" to the console:
 
- # This is a comment
+ **This is a comment**
 print("Hello, World!")
 
 *Explanation*
@@ -91,34 +91,33 @@ D. **Data Types and Variables : List and describe the basic data types in Python
 
  *A short script that demonstrates how to create and use variables of different data types.*
 
- *Integer*
+ # Integer
 a = 10
 print(f"Integer: {a}")
 
-*Float*
+# Float
 b = 3.14
 print(f"Float: {b}")
 
-*String*
+# String
 c = "Hello"
 print(f"String: {c}")
 
-*Boolean*
+# Boolean
 d = True
 print(f"Boolean: {d}")
 
-*List*
+# List
 e = [1, 2, 3]
 print(f"List: {e}")
 
-*Tuple*
+# Tuple
 f = (4, 5, 6)
 print(f"Tuple: {f}")
 
-*Dictionary*
+# Dictionary
 g = {'key1': 'value1', 'key2': 'value2'}
 print(f"Dictionary: {g}")
-
 
 
 E. **Control Structures : Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.**
